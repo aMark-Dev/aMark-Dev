@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/aMark-Dev">
-    <img src="" alt="Marcos Antônio" /></a>
+    <img src="assets/Design sem nome.png" alt="Marcos Antônio" width="300"/></a>
 </p>
 
 **`Futuro desenvolverdor de IA`**
@@ -9,5 +9,5 @@ Me chamo Marcos Antônio, tenho 17 anos e sou natural do interior do Ceará. Est
 
 <h3>💻 Softwares </h3>
 <p>
-  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+  <a href="discord.com/channels/@marcowz_"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 </p>
