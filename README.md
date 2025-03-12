@@ -2,7 +2,7 @@
 
 **`Futuro desenvolverdor de IA`**
 
-Me chamo Marcos Antônio, tenho 17 anos e sou natural do interior do Ceará. Estou concluindo o 3º ano do Curso Técnico em Química no IFCE Campus Crateús e pretendo ingressar em Ciência da Computação no Campus Pici (Fortaleza/CE) para alinhar minha formação à minha paixão pela tecnologia. Desde os 9 anos, desenvolvo habilidades em programação: iniciei com JavaScript, migrei para C++ aos 12 e, atualmente, dedico-me ao Python, linguagem estratégica para minha especialização em Inteligência Artificial (IA). Meu foco está em modelos generativos (Generative AI) e aprendizado supervisionado (Supervised Learning), áreas nas quais busco consolidar expertise técnica para atuar no desenvolvimento de soluções inovadoras no mercado global de IA.
+Marcos Antônio, 17 anos, natural do interior do Ceará. Técnico em Química pelo IFCE Campus Crateús (CE) e em preparação para ingressar em Ciência da Computação no IFCE Campus Pici (Fortaleza/CE). Desenvolvedor Python com foco em Inteligência Artificial (IA), Machine Learning (ML) e Deep Learning (DL). Possuo experiência em C++, JavaScript, TensorFlow, Scikit-learn, spaCy e Git, além de conhecimentos básicos em Node.js e C#.
 
 ---
 
@@ -14,6 +14,22 @@ Me chamo Marcos Antônio, tenho 17 anos e sou natural do interior do Ceará. Est
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+/>
+<img 
+  align="left"
+  alt="TensorFlow"
+  title="TensorFlow"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+/>
+<img 
+  align="left"
+  alt="Scikit-learn"
+  title="Scikit-learn"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
 />
 <img 
   align="left"
