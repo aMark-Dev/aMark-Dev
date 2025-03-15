@@ -1,6 +1,6 @@
 # 🧑🏻‍💻Marcos Antônio
 
-**`Futuro desenvolverdor de IA`**
+**`DEV AI`**
 
 Marcos Antônio, 17 anos, natural do interior do Ceará. Técnico em Química pelo IFCE Campus Crateús (CE) e em preparação para ingressar em Ciência da Computação no IFCE Campus Pici (Fortaleza/CE). Desenvolvedor Python com foco em Inteligência Artificial (IA), Machine Learning (ML) e Deep Learning (DL). Possuo experiência em C++, JavaScript, TensorFlow, Scikit-learn, spaCy e Git, além de conhecimentos básicos em Node.js e C#.
 
