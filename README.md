@@ -1,6 +1,6 @@
 # 🧑🏻‍💻Marcos Antônio
 
-**`DEVeloper Back-End`**
+**`Developer Back-End`**
 
 Marcos Antônio, 17 anos, natural do interior do Ceará. Técnico em Química pelo IFCE Campus Crateús (CE) e em preparação para ingressar em Ciência da Computação no IFCE Campus Pici (Fortaleza/CE). Desenvolvedor Python especializado em integrar Inteligência Artificial em sistemas Backend, criando soluções como APIs inteligentes, automação de processos e modelos de ML.
 
