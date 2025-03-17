@@ -17,14 +17,6 @@ Marcos Antônio, 17 anos, natural do interior do Ceará. Técnico em Química pe
 />
 <img 
   align="left"
-  alt="TensorFlow"
-  title="TensorFlow"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
-/>
-<img 
-  align="left"
   alt="GIT"
   title="GIT"
   width="30px"
