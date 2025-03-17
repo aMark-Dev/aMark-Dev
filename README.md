@@ -1,8 +1,8 @@
 # 🧑🏻‍💻Marcos Antônio
 
-**`DEV AI`**
+**`DEVeloper Back-End`**
 
-Marcos Antônio, 17 anos, natural do interior do Ceará. Técnico em Química pelo IFCE Campus Crateús (CE) e em preparação para ingressar em Ciência da Computação no IFCE Campus Pici (Fortaleza/CE). Desenvolvedor Python com foco em Inteligência Artificial (IA), Machine Learning (ML) e Deep Learning (DL). Possuo experiência em C++, JavaScript, TensorFlow, Scikit-learn, spaCy e Git, além de conhecimentos básicos em Node.js e C#.
+Marcos Antônio, 17 anos, natural do interior do Ceará. Técnico em Química pelo IFCE Campus Crateús (CE) e em preparação para ingressar em Ciência da Computação no IFCE Campus Pici (Fortaleza/CE). Desenvolvedor Python especializado em integrar Inteligência Artificial em sistemas Backend, criando soluções como APIs inteligentes, automação de processos e modelos de ML.
 
 ---
 
@@ -22,30 +22,6 @@ Marcos Antônio, 17 anos, natural do interior do Ceará. Técnico em Química pe
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
-/>
-<img 
-  align="left"
-  alt="Scikit-learn"
-  title="Scikit-learn"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
-/>
-<img 
-  align="left"
-  alt="JS"
-  title="JS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
-/>
-<img 
-  align="left"
-  alt="C++"
-  title="C++"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" 
 />
 <img 
   align="left"
