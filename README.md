@@ -2,11 +2,11 @@
 
 **`Developer`**
 
-Sou um estudante de 18 anos do Ceará, programador desde os 9 e apaixonado por ciência. Minha trajetória é marcada por medalhas em olimpíadas nacionais de Matemática, Ciências e Química, além de prêmios em feiras científicas. Hoje, aplico minhas habilidades em um projeto de Inteligência Artificial focado em resolver problemas hídricos da minha região. Meu objetivo é me tornar Engenheiro de IA e usar a tecnologia para gerar impacto real.
+I am an 18-year-old student from Ceará, Brazil, a programmer since the age of 9, and passionate about science. My journey is marked by national olympiad medals in Mathematics, Science, and Chemistry, as well as awards at science fairs. Today, I am applying my skills to an Artificial Intelligence project focused on solving water resource challenges in my region. My goal is to become an AI Engineer and use technology to create real-world impact.
 
 ---
 
-<h2>💻 Linguagens e Tecnologias </h2>
+<h2>💻 Languages and Technologies </h2>
 <img 
   align="left"
   alt="Python"
@@ -34,7 +34,7 @@ Sou um estudante de 18 anos do Ceará, programador desde os 9 e apaixonado por c
 <img 
   align="left"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=aMark-Dev&show_icons=true&theme=radical&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=aMark-Dev&show_icons=true&theme=radical"
   />
   <img 
   align="left"
