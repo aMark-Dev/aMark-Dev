@@ -1,6 +1,6 @@
 # 🧑🏻‍💻Marcos Antônio
 
-**`Developer Back-End`**
+**`Developer`**
 
 Sou um estudante de 18 anos do Ceará, programador desde os 9 e apaixonado por ciência. Minha trajetória é marcada por medalhas em olimpíadas nacionais de Matemática, Ciências e Química, além de prêmios em feiras científicas. Hoje, aplico minhas habilidades em um projeto de Inteligência Artificial focado em resolver problemas hídricos da minha região. Meu objetivo é me tornar Engenheiro de IA e usar a tecnologia para gerar impacto real.
 
