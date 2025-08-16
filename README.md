@@ -29,7 +29,7 @@ I am an 18-year-old student from Ceará, Brazil, a programmer since the age of 9
 
 ---
 
-<h2>📊 Estatísticas </h2>
+<h2>📊 Statistics </h2>
 
 <img 
   align="left"
@@ -39,5 +39,5 @@ I am an 18-year-old student from Ceará, Brazil, a programmer since the age of 9
   <img 
   align="left"
   height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact&custom_title=Technologies&langs_count=9"
   />
