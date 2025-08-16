@@ -2,7 +2,7 @@
 
 **`Developer Back-End`**
 
-Marcos Antônio, 17 anos, natural do interior do Ceará. Técnico em Química pelo IFCE Campus Crateús (CE) e em preparação para ingressar em Ciência da Computação no IFCE Campus Pici (Fortaleza/CE). Desenvolvedor Python especializado em integrar Inteligência Artificial em sistemas Backend, criando soluções como APIs inteligentes, automação de processos e modelos de ML.
+Sou um estudante de 18 anos do Ceará, programador desde os 9 e apaixonado por ciência. Minha trajetória é marcada por medalhas em olimpíadas nacionais de Matemática, Ciências e Química, além de prêmios em feiras científicas. Hoje, aplico minhas habilidades em um projeto de Inteligência Artificial focado em resolver problemas hídricos da minha região. Meu objetivo é me tornar Engenheiro de IA e usar a tecnologia para gerar impacto real.
 
 ---
 
