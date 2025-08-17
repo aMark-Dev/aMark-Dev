@@ -3,13 +3,13 @@
 ---
 Portuguese:
 
-Jovem de 18 anos, estudante de Química Técnica e programador autodidata desde os 9 anos. Multimedalhista em Olimpíadas de Exatas (Matemática, Química, Ciências). Atualmente, exploro projetos práticos de Machine Learning com o objetivo de me tornar Engenheiro de IA. Gosto de animes e de dormir.
+Tenho 18 anos, estudo Química Técnica e sou programador autodidata desde os 9. Minha abordagem é prática: uso competições de exatas para testar minha lógica e projetos pessoais para aplicar meu conhecimento em IA. Meu principal projeto, o "Sentinel Flow", foi um aprendizado sobre a importância de adaptar a estratégia, evoluindo de um modelo preditivo que falhou para uma solução analítica funcional.
 
 ---
 
 English:
 
-18-year-old Technical Chemistry student and self-taught programmer since the age of 9. Multi-medalist in STEM Olympiads (Mathematics, Chemistry, and Science). Currently exploring practical Machine Learning projects with the goal of becoming an AI Engineer. Fan of anime and sleep.
+I'm 18 years old, a Technical Chemistry student and a self-taught programmer since I was 9. My approach is hands-on: I use STEM competitions to test my logic and personal projects to apply my knowledge in AI. My main project, 'Sentinel Flow', was a lesson in the importance of adapting strategy, evolving from a predictive model that failed into a successful analytical solution.
 
 ---
 
