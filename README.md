@@ -2,11 +2,13 @@
 
 ---
 Portuguese:
+
 Jovem de 18 anos, estudante de Química Técnica e programador autodidata desde os 9 anos. Multimedalhista em Olimpíadas de Exatas (Matemática, Química, Ciências). Atualmente, exploro projetos práticos de Machine Learning com o objetivo de me tornar Engenheiro de IA. Gosto de animes e de dormir.
 
 ---
 
 English:
+
 18-year-old Technical Chemistry student and self-taught programmer since the age of 9. Multi-medalist in STEM Olympiads (Mathematics, Chemistry, and Science). Currently exploring practical Machine Learning projects with the goal of becoming an AI Engineer. Fan of anime and sleep.
 
 ---
