@@ -1,6 +1,5 @@
-# 🧑🏻‍💻Marcos Antônio
+# Marcos Antônio
 
-**`Developer`**
 
 I am an 18-year-old student from Ceará, Brazil, a programmer since the age of 9, and passionate about science. My journey is marked by national olympiad medals in Mathematics, Science, and Chemistry, as well as awards at science fairs. Today, I am applying my skills to an Artificial Intelligence project focused on solving water resource challenges in my region. My goal is to become an AI Engineer and use technology to create real-world impact.
 
