@@ -1,7 +1,13 @@
 # Marcos Antônio
 
+---
+Portuguese:
+Jovem de 18 anos, estudante de Química Técnica e programador autodidata desde os 9 anos. Multimedalhista em Olimpíadas de Exatas (Matemática, Química, Ciências). Atualmente, exploro projetos práticos de Machine Learning com o objetivo de me tornar Engenheiro de IA. Gosto de animes e de dormir.
 
-I am an 18-year-old student from Ceará, Brazil, a programmer since the age of 9, and passionate about science. My journey is marked by national olympiad medals in Mathematics, Science, and Chemistry, as well as awards at science fairs. Today, I am applying my skills to an Artificial Intelligence project focused on solving water resource challenges in my region. My goal is to become an AI Engineer and use technology to create real-world impact.
+---
+
+English:
+18-year-old Technical Chemistry student and self-taught programmer since the age of 9. Multi-medalist in STEM Olympiads (Mathematics, Chemistry, and Science). Currently exploring practical Machine Learning projects with the goal of becoming an AI Engineer. Fan of anime and sleep.
 
 ---
 
