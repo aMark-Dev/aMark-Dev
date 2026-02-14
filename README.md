@@ -3,13 +3,19 @@
 ---
 Portuguese:
 
-Tenho 18 anos, estudo Química Técnica e sou programador autodidata desde os 9. Minha abordagem é prática: uso competições de exatas para testar minha lógica e projetos pessoais para aplicar meu conhecimento em IA. Meu principal projeto, o "Sentinel Flow", foi um aprendizado sobre a importância de adaptar a estratégia, evoluindo de um modelo preditivo que falhou para uma solução analítica funcional.
+Tenho 18 anos, sou formado como Técnico em Química e programador autodidata desde os 9. Minha abordagem sempre foi: uso competições de exatas para testar minha lógica e projetos pessoais para aplicar meu conhecimento.
+
+Meu principal projeto é o 'Sentinel Flow', um sistema preditivo que desenvolvi para prever a taxa de evapotranspiração de águas superficiais no Nordeste brasileiro. O objetivo é auxiliar o governo na antecipação de secas em comunidades remotas do interior. O projeto ainda está em pequena escala e sigo estudando para melhorá-lo, mas foi onde apliquei técnicas avançadas de séries temporais e o que mais gostei de desenvolver até hoje.
+
+Atualmente, estou cursando Graduação em Inteligência Artificial no FB UNI (Campus Central), em Fortaleza.
 
 ---
 
 English:
 
-I'm 18 years old, a Technical Chemistry student and a self-taught programmer since I was 9. My approach is hands-on: I use STEM competitions to test my logic and personal projects to apply my knowledge in AI. My main project, 'Sentinel Flow', was a lesson in the importance of adapting strategy, evolving from a predictive model that failed into a successful analytical solution.
+I'm 18 years old, a Technical Chemistry graduate, and a self-taught programmer since I was 9. My approach is hands-on: I use STEM competitions to challenge my logic and personal projects to apply my AI knowledge.
+
+I am currently an undergraduate student in Artificial Intelligence at FB UNI. My flagship project is 'Sentinel Flow', a predictive system designed to forecast water evapotranspiration rates in Northeastern Brazil, aiming to help remote communities anticipate droughts. It represents my most advanced work with time-series techniques and my passion for solving real-world problems.
 
 ---
 
